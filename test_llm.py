@@ -2,7 +2,7 @@ import requests
 import time
 
 def test_llm_connection():
-    url = "http://159.195.20.30:5000/v1/chat"
+    url = "http://XXX.XXX.XX.30:5000/v1/chat"
     headers = {"Authorization": "Mygtafive"}
     
     print("🔍 Testing LLM Server Connection...")
