@@ -1,5 +1,5 @@
 """
-Complete main.py 
+Complete main.py
 """
 import asyncio
 import sys
