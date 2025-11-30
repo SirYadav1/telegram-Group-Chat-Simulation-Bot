@@ -1,7 +1,3 @@
-"""
-Character-Based Message Handler - Natural Group Chat
-REPLACE your message_handler.py with this
-"""
 import requests
 import random
 import asyncio
