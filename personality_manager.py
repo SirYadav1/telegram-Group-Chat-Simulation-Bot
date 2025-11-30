@@ -1,7 +1,3 @@
-"""
-6 Character Personality System - Natural Group Dynamics
-REPLACE your personality_manager.py with this
-"""
 import random
 
 class PersonalityManager:
