@@ -1,6 +1,5 @@
 """
 Character-Based Bot Controller with Natural Starters
-REPLACE your bot_controller.py with this
 """
 import asyncio
 import random
