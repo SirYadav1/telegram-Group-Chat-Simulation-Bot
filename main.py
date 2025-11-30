@@ -1,5 +1,5 @@
 """
-Complete main.py - Copy-paste this ENTIRE file
+Complete main.py 
 """
 import asyncio
 import sys
