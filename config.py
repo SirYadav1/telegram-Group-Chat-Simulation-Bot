@@ -1,6 +1,5 @@
 """
 Updated config.py - Optimized for slow LLM server
-REPLACE your config.py with this
 """
 import os
 from dotenv import load_dotenv
@@ -8,11 +7,11 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # LLM Configuration
-LLM_API_URL = "http://159.195.20.30:5000/v1/chat"
+LLM_API_URL = "http://XXX.XXX.20.30:5000/v1/chat"
 LLM_API_KEY = "Mygtafive"
 
 # Group Configuration
-GROUP_ID = -1002919456671  # Your group ID
+GROUP_ID = -100XXXXXX671  # Your group ID
 
 # Message Response Settings
 MIN_RESPONSE_WORDS = 3  # Minimum 3 words
